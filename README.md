@@ -1,1 +1,2 @@
-# SCT_SD_4
+# Product Scraper
+The Product Scraper is a web scraping tool designed to extract product information from e-commerce websites (such as Amazon, eBay, Walmart, etc.). The scraper retrieves various product details, including the product name, price, description, availability, ratings, and other relevant information. This tool is useful for gathering product data for price comparison, market research, or data analysis.
